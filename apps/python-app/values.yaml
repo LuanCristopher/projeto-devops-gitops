@@ -3,4 +3,4 @@ replicaCount: 1
 
 image:
   repository: LuanCristopher/python-app
-  tag: "latest" # O pipeline vai atualizar esta tag
+  tag: '4228c24ad366447a7bde40abfcb80e295d69732e'
