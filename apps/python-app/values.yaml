@@ -3,4 +3,4 @@ replicaCount: 1
 
 image:
   repository: luancristopher/python-app
-  tag: '99a93e444b6e7743abfe72496955d76ac5d10ce8'
+  tag: '26ca08fad29533b40eef1d7094aba53f3766b33d'
