@@ -2,5 +2,5 @@
 replicaCount: 1
 
 image:
-  repository: LuanCristopher/python-app
+  repository: luancristopher/python-app
   tag: '99a93e444b6e7743abfe72496955d76ac5d10ce8'
